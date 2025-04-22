@@ -1,0 +1,57 @@
+newmtl Model001_Material001
+map_Kd elliehead.png
+
+newmtl Model001_Material002
+map_Kd elliehead.png
+
+newmtl Model001_Material003
+map_Kd ellieeyes.png
+
+newmtl Model001_Material004
+map_Kd ellieteeth.png
+
+newmtl Model001_Material005
+map_Kd hairtie.png
+
+newmtl Model001_Material006
+map_Kd elliehair_thin01.png
+
+newmtl Model001_Material007
+map_Kd elliehair_thin02.png
+
+newmtl Model001_Material008
+map_Kd elliehair_thick01.png
+
+newmtl Model001_Material009
+map_Kd elliehair_thick01.png
+
+newmtl Model001_Material010
+map_Kd elliehair_skullcap.png
+
+newmtl Model001_Material011
+map_Kd elliehair_thick01.png
+
+newmtl Model001_Material012
+map_Kd ellieshirt.png
+
+newmtl Model001_Material013
+map_Kd ellieshirt.png
+
+newmtl Model001_Material014
+map_Kd elliehands.png
+
+newmtl Model001_Material015
+map_Kd elliehands.png
+
+newmtl Model001_Material016
+map_Kd elliepants.png
+
+newmtl Model001_Material017
+map_Kd ellieshoes.png
+
+newmtl Model001_Material018
+map_Kd ellieshoes.png
+
+newmtl Model001_Material019
+map_Kd ellieshoes.png
+
